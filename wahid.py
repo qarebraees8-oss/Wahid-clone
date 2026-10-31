@@ -414,9 +414,9 @@ logo = """
 \x1b[1;97m---------------------------------------------------
 \x1b[1;97m[+] HACKING  :  SQ TEAM HACK 
 \x1b[1;97m[+] GITHUB   :  https://github.com/qarebraees8-oss
-\x1b[1;97m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :  Shah Wahid 
+\x1b[1;97m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :  Wahid ziar
 \x1b[1;97m[+] 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :  https://t.me/Kingwahidafg
-\x1b[1;97m[+] WHATSAPP : +93079640275
+\x1b[1;97m[+] WHATSAPP : +930796420475
 \x1b[1;97m[+] COUNTRY  :  Afghanistan KING WAHID TEAM
 \x1b[1;97m[+] 𝗩𝗘𝗥𝗦𝗜𝗢𝗡  :  5.7         
 \x1b[1;97m--------------------------------------
